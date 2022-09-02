@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+    background-color: black;
+}
+
+.header{
+
+    color: hsl(140, 38%, 77%);
+}
+.container{
+
+    width: 80%;
+    margin: auto;/*Centraliza a tela*/
+}
+h1{
+    /* padding-top: 5px;
+    padding-right: 15px;
+    padding-bottom: 20px;
+    padding-left: 19px; */
+    padding: 5px 15px 20px 19px;
+    border: solid purple 3px;
+}
+ul{
+
+}
+
+.header .container{
+    display: flex;
+    justify-content: space-between;
+}
+.navbar{
+    display: flex;
+    width: 600px;
+    justify-content: space-around;
+    color: #e3b052;
+    list-style: none;
+    align-items: center;
+}
+li{
+
+}
+/*
+
+*/
